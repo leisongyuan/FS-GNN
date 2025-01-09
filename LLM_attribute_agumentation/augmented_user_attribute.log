@@ -1,0 +1,764 @@
+2024-12-30 14:34:29,033 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:29,033 - INFO - Response for user 1: 1::Drama|Comedy|Adventure::Horror|War::Steven Spielberg::USA::English
+2024-12-30 14:34:31,525 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:31,525 - INFO - Response for user 2: 2::Drama|Comedy|Thriller::Action|Sci-Fi::Jon Amiel::USA::English
+2024-12-30 14:34:34,046 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:34,060 - INFO - Response for user 3: 3::Drama|Comedy|Action::Romance|Western::Clint Eastwood::USA::English
+2024-12-30 14:34:36,675 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:36,685 - INFO - Response for user 4: 4::Comedy|Drama|Action::Horror|Thriller::Gillian Armstrong::USA::English
+2024-12-30 14:34:39,307 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:39,307 - INFO - Response for user 5: 5::Drama|Romance|Comedy::Horror|Thriller::Sydney Pollack::USA::English
+2024-12-30 14:34:41,812 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:41,812 - INFO - Response for user 6: 6::Comedy|Drama|Action::Thriller|Crime::Joe Johnston::USA::English
+2024-12-30 14:34:44,178 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:44,178 - INFO - Response for user 7: 7::Comedy|Drama|Romance::Horror|Crime::Sydney Pollack::USA::English
+2024-12-30 14:34:46,680 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:46,680 - INFO - Response for user 8: 8::Drama|Comedy|Romance::Horror|Action::Joe Johnston::USA::English
+2024-12-30 14:34:49,142 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:49,142 - INFO - Response for user 9: 9::Drama|Comedy|Action::Horror|Film-Noir::Joe Johnston::USA::English
+2024-12-30 14:34:52,302 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:52,302 - INFO - Response for user 10: 10::Drama|Comedy|Romance::Crime|Thriller::Clint Eastwood::USA::English
+2024-12-30 14:34:54,787 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:54,797 - INFO - Response for user 11: 11::Drama|Comedy|Thriller::Horror|Science Fiction::Stephen Low::USA::English
+2024-12-30 14:34:57,180 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:57,180 - INFO - Response for user 12: 12::Comedy|Action|Drama::Documentary|Animation::Stanley Kubrick::USA::English
+2024-12-30 14:34:59,699 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:34:59,699 - INFO - Response for user 13: 13::Drama|Comedy|Thriller::Horror|Western::Howard Deutch::USA::English
+2024-12-30 14:35:03,169 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:03,169 - INFO - Response for user 14: 14::Drama|Comedy|Action::Horror|Western::Mario Van Peebles::USA::English
+2024-12-30 14:35:05,909 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:05,909 - INFO - Response for user 15: 15::Drama|Comedy|Romance::Action|Thriller::Sydney Pollack::USA::English
+2024-12-30 14:35:08,279 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:08,279 - INFO - Response for user 16: 16::Comedy|Drama|Action::Horror|Thriller::Woody Allen::USA::English
+2024-12-30 14:35:10,967 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:10,967 - INFO - Response for user 17: 17::Drama|Comedy|Romance::Action|Thriller::Mike Figgis::USA::English
+2024-12-30 14:35:13,393 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:13,399 - INFO - Response for user 18: 18::Drama|Comedy|Adventure::Thriller|Crime::Joe Johnston::USA::English
+2024-12-30 14:35:15,782 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:15,782 - INFO - Response for user 19: 19::Drama|Comedy|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 14:35:18,441 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:18,441 - INFO - Response for user 20: 20::Drama|Comedy|Action::Horror|Sci-Fi::Martin Scorsese::USA::English
+2024-12-30 14:35:21,069 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:21,069 - INFO - Response for user 21: 21::Comedy|Drama|Action::Sci-Fi|War::Joe Johnston::USA::English
+2024-12-30 14:35:23,574 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:23,574 - INFO - Response for user 22: 22::Comedy|Drama|Romance::Sci-Fi|Horror::Rob Reiner::USA::English
+2024-12-30 14:35:26,013 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:26,013 - INFO - Response for user 23: 23::Drama|Comedy|Romance::Horror|Documentary::Joe Johnston::USA::English
+2024-12-30 14:35:28,566 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:28,566 - INFO - Response for user 24: 24::Drama|Comedy|Thriller::Horror|Sci-Fi::Martin Scorsese::USA::English
+2024-12-30 14:35:31,064 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 14:35:31,064 - INFO - Response for user 25: 25::Drama|Action|Thriller::Horror|Romance::Martin Scorsese::USA::English
+2024-12-30 16:49:43,084 - INFO - Profile for user 1 already generated, skipping.
+2024-12-30 16:49:44,085 - INFO - Profile for user 2 already generated, skipping.
+2024-12-30 16:49:45,086 - INFO - Profile for user 3 already generated, skipping.
+2024-12-30 16:49:46,087 - INFO - Profile for user 4 already generated, skipping.
+2024-12-30 16:49:47,087 - INFO - Profile for user 5 already generated, skipping.
+2024-12-30 16:49:48,089 - INFO - Profile for user 6 already generated, skipping.
+2024-12-30 16:49:49,089 - INFO - Profile for user 7 already generated, skipping.
+2024-12-30 16:49:50,091 - INFO - Profile for user 8 already generated, skipping.
+2024-12-30 16:49:51,092 - INFO - Profile for user 9 already generated, skipping.
+2024-12-30 16:49:52,093 - INFO - Profile for user 10 already generated, skipping.
+2024-12-30 16:49:53,093 - INFO - Profile for user 11 already generated, skipping.
+2024-12-30 16:49:54,094 - INFO - Profile for user 12 already generated, skipping.
+2024-12-30 16:49:55,096 - INFO - Profile for user 13 already generated, skipping.
+2024-12-30 16:49:56,097 - INFO - Profile for user 14 already generated, skipping.
+2024-12-30 16:49:57,098 - INFO - Profile for user 15 already generated, skipping.
+2024-12-30 16:49:58,098 - INFO - Profile for user 16 already generated, skipping.
+2024-12-30 16:49:59,100 - INFO - Profile for user 17 already generated, skipping.
+2024-12-30 16:50:00,101 - INFO - Profile for user 18 already generated, skipping.
+2024-12-30 16:50:01,102 - INFO - Profile for user 19 already generated, skipping.
+2024-12-30 16:50:02,103 - INFO - Profile for user 20 already generated, skipping.
+2024-12-30 16:50:03,104 - INFO - Profile for user 21 already generated, skipping.
+2024-12-30 16:50:04,106 - INFO - Profile for user 22 already generated, skipping.
+2024-12-30 16:50:05,106 - INFO - Profile for user 23 already generated, skipping.
+2024-12-30 16:50:06,107 - INFO - Profile for user 24 already generated, skipping.
+2024-12-30 16:50:07,108 - INFO - Profile for user 25 already generated, skipping.
+2024-12-30 16:50:10,624 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:10,635 - INFO - Response for user 26: 26::Comedy|Drama|Adventure::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 16:50:14,907 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:14,907 - INFO - Response for user 27: 27::Drama|Comedy|Romance::Thriller|Documentary::George Cukor::USA::English
+2024-12-30 16:50:17,610 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:17,611 - INFO - Response for user 28: 28::Drama|Comedy|Adventure::Thriller|Mystery::Joe Johnston::USA::English
+2024-12-30 16:50:20,521 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:20,521 - INFO - Response for user 29: 29::Drama|Thriller|Comedy::Horror|Crime::Kevin Costner::USA::English
+2024-12-30 16:50:23,792 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:23,792 - INFO - Response for user 30: 30::Drama|Comedy|Action::Horror|Sci-Fi::Robert Rodriguez::USA::English
+2024-12-30 16:50:26,492 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:26,492 - INFO - Response for user 31: 31::Comedy|Drama|Romance::Horror|Crime::Steven Spielberg::USA::English
+2024-12-30 16:50:29,583 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:29,593 - INFO - Response for user 32: 32::Drama|Adventure|Comedy::Film-Noir|Western::Jean-Jacques Annaud::USA::English
+2024-12-30 16:50:32,676 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:32,676 - INFO - Response for user 33: 33::Drama|Romance|Comedy::Thriller|Action::Ang Lee::USA::English
+2024-12-30 16:50:35,805 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:35,805 - INFO - Response for user 34: 34::Drama|Comedy|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:50:38,553 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:38,553 - INFO - Response for user 35: 35::Drama|Comedy|Adventure::Thriller|Mystery::Peter Hewitt::USA::English
+2024-12-30 16:50:41,329 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:41,333 - INFO - Response for user 36: 36::Drama|Comedy|Adventure::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 16:50:44,169 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:44,169 - INFO - Response for user 37: 37::Comedy|Drama|Romance::Horror|Thriller::Mike Gabriel::USA::English
+2024-12-30 16:50:47,008 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:47,008 - INFO - Response for user 38: 38::Drama|Comedy|Children's::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:50:50,338 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:50,338 - INFO - Response for user 39: 39::Drama|Comedy|Action::Horror|Thriller::Steven Spielberg::USA::English
+2024-12-30 16:50:53,284 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:53,284 - INFO - Response for user 40: 40::Comedy|Drama|Thriller::Romance|Sci-Fi::Howard Deutch::USA::English
+2024-12-30 16:50:56,046 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:56,046 - INFO - Response for user 41: 41::Drama|Comedy|Action::Horror|Crime::Martin Scorsese::USA::English
+2024-12-30 16:50:59,551 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:50:59,561 - INFO - Response for user 42: 42::Drama|Comedy|Romance::Horror|Thriller::Sydney Pollack::USA::English
+2024-12-30 16:51:02,664 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:02,664 - INFO - Response for user 43: 43::Comedy|Drama|Action::Horror|Thriller::Mike Newell::USA::English
+2024-12-30 16:51:06,171 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:06,172 - INFO - Response for user 44: 44::Drama|Comedy|Children's::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:51:09,161 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:09,162 - INFO - Response for user 45: 45::Drama|Comedy|Adventure::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 16:51:12,410 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:12,411 - INFO - Response for user 46: 46::Drama|Comedy|Horror::Crime|Fantasy::Chuck Russell::USA::English
+2024-12-30 16:51:15,339 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:15,340 - INFO - Response for user 47: 47::Drama|Comedy|Thriller::Horror|Western::Quentin Tarantino::USA::English
+2024-12-30 16:51:18,201 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:18,202 - INFO - Response for user 48: 48::Drama|Comedy|Action::Romance|Horror::Martin Scorsese::USA::English
+2024-12-30 16:51:21,314 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:21,315 - INFO - Response for user 49: 49::Drama|Comedy|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:51:24,043 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:24,044 - INFO - Response for user 50: 50::Drama|Comedy|Action::Thriller|Film-Noir::Michael Bay::USA::English
+2024-12-30 16:51:26,755 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:27,026 - INFO - Response for user 51: 51::Drama|Comedy|Action::Horror|Romance::Joe Johnston::USA::English
+2024-12-30 16:51:29,750 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:29,751 - INFO - Response for user 52: 52::Drama|Comedy|Action::Horror|Sci-Fi::Sydney Pollack::USA::English
+2024-12-30 16:51:32,519 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:32,521 - INFO - Response for user 53: 53::Drama|Comedy|Thriller::Action|Crime::Howard Deutch::USA::English
+2024-12-30 16:51:35,333 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:35,334 - INFO - Response for user 54: 54::Comedy|Drama|Romance::Horror|Sci-Fi::Hal Ashby::USA::English
+2024-12-30 16:51:38,685 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:38,686 - INFO - Response for user 55: 55::Drama|Thriller|Action::Comedy|Romance::Richard W. Munchkin::USA::English
+2024-12-30 16:51:41,477 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:41,478 - INFO - Response for user 56: 56::Drama|Comedy|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:51:44,622 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:44,623 - INFO - Response for user 57: 57::Comedy|Drama|Action::Horror|Thriller::Rob Reiner::USA::English
+2024-12-30 16:51:48,045 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:48,045 - INFO - Response for user 58: 58::Drama|Comedy|Action::Horror|Crime::Robert Rodriguez::USA::English
+2024-12-30 16:51:50,975 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:50,976 - INFO - Response for user 59: 59::Drama|Thriller|Action::Comedy|Romance::Martin Scorsese::USA::English
+2024-12-30 16:51:54,436 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:54,436 - INFO - Response for user 60: 60::Drama|Comedy|Romance::Action|Thriller::Joe Johnston::USA::English
+2024-12-30 16:51:57,673 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:51:57,675 - INFO - Response for user 61: 61::Comedy|Drama|Action::Horror|Documentary::USA::English
+2024-12-30 16:51:57,675 - ERROR - Unexpected format in response for user 61: 61::Comedy|Drama|Action::Horror|Documentary::USA::English
+2024-12-30 16:52:00,454 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:00,454 - INFO - Response for user 62: 62::Comedy|Drama|Action::Horror|Thriller::Howard Deutch::USA::English
+2024-12-30 16:52:03,733 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:03,734 - INFO - Response for user 63: 63::Comedy|Drama|Romance::Thriller|Action::Sydney Pollack::USA::English
+2024-12-30 16:52:06,707 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:06,707 - INFO - Response for user 64: 64::Drama|Comedy|Action::Thriller|Sci-Fi::Martin Scorsese::USA::English
+2024-12-30 16:52:09,594 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:09,848 - INFO - Response for user 65: 65::Drama|Comedy|Action::Romance|Thriller::Joe Johnston::USA::English
+2024-12-30 16:52:12,803 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:12,804 - INFO - Response for user 66: 66::Drama|Comedy|Thriller::Action|Crime::Martin Scorsese::USA::English
+2024-12-30 16:52:15,740 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:15,741 - INFO - Response for user 67: 67::Drama|Comedy|Action::Horror|Thriller::Billy Wilder::USA::English
+2024-12-30 16:52:18,905 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:18,906 - INFO - Response for user 68: 68::Comedy|Drama|Action::Horror|Western::Steven Spielberg::USA::English
+2024-12-30 16:52:21,741 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:21,741 - INFO - Response for user 69: 69::Drama|Comedy|Romance::Thriller|War::Renny Harlin::USA::English
+2024-12-30 16:52:25,504 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:25,506 - INFO - Response for user 70: 70::Comedy|Drama|Action::Horror|Thriller::Paul W.S. Anderson::USA::English
+2024-12-30 16:52:28,168 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:28,169 - INFO - Response for user 71: 71::Drama|Comedy|Action::Horror|Thriller::Jeremy Leven::USA::English
+2024-12-30 16:52:31,385 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:31,385 - INFO - Response for user 72: 72::Comedy|Drama|Romance::Horror|Sci-Fi::Wim Wenders::USA::English
+2024-12-30 16:52:34,565 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:34,565 - INFO - Response for user 73: 73::Drama|Comedy|Action::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 16:52:37,662 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:37,663 - INFO - Response for user 74: 74::Drama|Comedy|Children's::Documentary|Thriller::Christopher Hampton::USA::English
+2024-12-30 16:52:42,218 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:42,219 - INFO - Response for user 75: 75::Drama|Comedy|Action::Thriller|Crime::Joe Johnston::USA::English
+2024-12-30 16:52:45,110 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:45,110 - INFO - Response for user 76: 76::Drama|Comedy|Action::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:52:48,545 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:48,546 - INFO - Response for user 77: 77::Drama|Comedy|Thriller::Horror|Animation::USA::English
+2024-12-30 16:52:48,546 - ERROR - Unexpected format in response for user 77: 77::Drama|Comedy|Thriller::Horror|Animation::USA::English
+2024-12-30 16:52:52,270 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:52,270 - INFO - Response for user 78: 78::Drama|Comedy|Action::Horror|War::Director: Joe Johnston::USA::English
+2024-12-30 16:52:55,811 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:55,811 - INFO - Response for user 79: 79::Comedy|Drama|War::Horror|Thriller::Richard Loncraine::USA::English
+2024-12-30 16:52:59,869 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:52:59,870 - INFO - Response for user 80: 80::Drama|Comedy|Romance::Thriller|Western::Mike Figgis::USA::English
+2024-12-30 16:53:06,054 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:53:06,055 - INFO - Response for user 81: 81::Drama|Comedy|Action::Horror|Thriller::John Huston::USA::English
+2024-12-30 16:53:09,950 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:53:09,951 - INFO - Response for user 82: 82::Drama|Comedy|Romance::Thriller|Mystery::Rob Reiner::USA::English
+2024-12-30 16:53:13,862 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:53:13,863 - INFO - Response for user 83: 83::Comedy|Drama|Romance::Horror|Thriller::Howard Deutch::USA::English
+2024-12-30 16:53:17,889 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:53:17,890 - INFO - Response for user 84: 84::Drama|Comedy|Action::Thriller|Crime::Martin Scorsese::USA::English
+2024-12-30 16:53:25,185 - INFO - Retrying request to /chat/completions in 0.417989 seconds
+2024-12-30 16:53:27,932 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:53:27,932 - INFO - Response for user 85: 85::Comedy|Drama|Action::Horror|Thriller::David Twohy::USA::English
+2024-12-30 16:53:34,260 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:53:34,260 - INFO - Response for user 86: 86::Drama|Comedy|Action::Horror|Thriller::Ulu Grosbard::USA::English
+2024-12-30 16:53:37,770 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:53:37,771 - INFO - Response for user 87: 87::Drama|Comedy|Thriller::Horror|Sci-Fi::Martin Scorsese::USA::English
+2024-12-30 16:53:45,053 - INFO - Retrying request to /chat/completions in 0.383855 seconds
+2024-12-30 16:53:48,846 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:53:48,847 - INFO - Response for user 88: 88::Comedy|Drama|Thriller::Horror|Western::Stanley Kubrick::USA::English
+2024-12-30 16:53:57,345 - INFO - Retrying request to /chat/completions in 0.466224 seconds
+2024-12-30 16:54:00,124 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:00,125 - INFO - Response for user 89: 89::Comedy|Drama|Romance::Horror|Thriller::Ron Howard::USA::English
+2024-12-30 16:54:03,607 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:03,609 - INFO - Response for user 90: 90::Drama|Comedy|Romance::Thriller|Action::Joe Johnston::USA::English
+2024-12-30 16:54:06,979 - INFO - Retrying request to /chat/completions in 0.476507 seconds
+2024-12-30 16:54:09,474 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:09,475 - INFO - Response for user 91: 91::Drama|Comedy|Crime::Sci-Fi|Western::Steven Spielberg::USA::English
+2024-12-30 16:54:12,416 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:12,416 - INFO - Response for user 92: 92::Drama|Comedy|Romance::Thriller|Action::Clint Eastwood::USA::English
+2024-12-30 16:54:15,347 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:15,348 - INFO - Response for user 93: 93::Comedy|Drama|Romance::Crime|Thriller::Sydney Pollack::USA::English
+2024-12-30 16:54:18,240 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:18,240 - INFO - Response for user 94: 94::Comedy|Drama|Horror::Action|War::Stephen Herek::USA::English
+2024-12-30 16:54:21,562 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:21,563 - INFO - Response for user 95: 95::Drama|Comedy|Romance::Thriller|Western::Rob Reiner::USA::English
+2024-12-30 16:54:24,540 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:24,541 - INFO - Response for user 96: 96::Drama|Adventure|Comedy::Thriller|Sci-Fi::Steven Spielberg::USA::English
+2024-12-30 16:54:27,381 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:27,381 - INFO - Response for user 97: 97::Drama|Comedy|Action::Horror|Crime::Stanley Donen::USA::English
+2024-12-30 16:54:30,323 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:30,325 - INFO - Response for user 98: 98::Drama|Comedy|Horror::Thriller|Sci-Fi::Mario Van Peebles::USA::English
+2024-12-30 16:54:33,429 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:33,430 - INFO - Response for user 99: 99::Drama|Comedy|Action::Horror|Western::Steven Spielberg::USA::English
+2024-12-30 16:54:36,445 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:36,446 - INFO - Response for user 100: 100::Drama|Thriller|Comedy::Documentary|Horror::Martin Scorsese::USA::English
+2024-12-30 16:54:39,769 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:39,770 - INFO - Response for user 101: 101::Drama|Comedy|Action::Western|Sci-Fi::Jon Amiel::USA::English
+2024-12-30 16:54:43,400 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:43,445 - INFO - Response for user 102: 102::Comedy|Drama|Romance::Horror|Crime::Rob Reiner::USA::English
+2024-12-30 16:54:46,567 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:46,569 - INFO - Response for user 103: 103::Drama|Comedy|Action::Horror|Sci-Fi::Martin Scorsese::USA::English
+2024-12-30 16:54:49,613 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:49,614 - INFO - Response for user 104: 104::Comedy|Drama|Action::Thriller|Crime::Jeremy Leven::USA::English
+2024-12-30 16:54:52,813 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:52,814 - INFO - Response for user 105: 105::Drama|Comedy|Action::Horror|Crime::Sydney Pollack::USA::English
+2024-12-30 16:54:56,401 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:56,402 - INFO - Response for user 106: 106::Comedy|Drama|Romance::War|Sci-Fi::Billy Wilder::USA::English
+2024-12-30 16:54:59,536 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:54:59,537 - INFO - Response for user 107: 107::Comedy|Drama|Adventure::Thriller|Film-Noir::Stanley Kubrick::USA::English
+2024-12-30 16:55:07,117 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:07,119 - INFO - Response for user 108: 108::Drama|Comedy|Action::Horror|War::Michael Bay::USA::English
+2024-12-30 16:55:12,522 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:12,523 - INFO - Response for user 109: 109::Comedy|Drama|Adventure::Thriller|Mystery::Alfred Hitchcock::USA::English
+2024-12-30 16:55:15,773 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:15,774 - INFO - Response for user 110: 110::Drama|Action|Comedy::Horror|Crime::Mike Gabriel::USA::English
+2024-12-30 16:55:18,673 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:18,674 - INFO - Response for user 111: 111::Drama|Comedy|Horror::Action|Thriller::Mel Brooks::USA::English
+2024-12-30 16:55:21,611 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:21,612 - INFO - Response for user 112: 112::Drama|Comedy|Animation::Horror|War::Joe Johnston::USA::English
+2024-12-30 16:55:26,125 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:26,126 - INFO - Response for user 113: 113::Comedy|Drama|Action::Horror|Children's::USA::English
+2024-12-30 16:55:26,126 - ERROR - Unexpected format in response for user 113: 113::Comedy|Drama|Action::Horror|Children's::USA::English
+2024-12-30 16:55:29,595 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:29,596 - INFO - Response for user 114: 114::Drama|Comedy|Children's::Thriller|Crime::Joe Johnston::USA::English
+2024-12-30 16:55:32,958 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:32,958 - INFO - Response for user 115: 115::Drama|Comedy|Action::Horror|Thriller::Andrew Sipes::USA::English
+2024-12-30 16:55:36,630 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:36,631 - INFO - Response for user 116: 116::Comedy|Drama|Adventure::Horror|Thriller::John Hughes::USA::English
+2024-12-30 16:55:39,813 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:39,814 - INFO - Response for user 117: 117::Comedy|Drama|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:55:43,363 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:43,364 - INFO - Response for user 118: 118::Comedy|Drama|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:55:46,520 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:46,521 - INFO - Response for user 119: 119::Drama|Comedy|Children's::Thriller|War::Joe Johnston::USA::English
+2024-12-30 16:55:49,881 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:49,882 - INFO - Response for user 120: 120::Drama|Action|Comedy::Horror|Western::Stanley Kubrick::USA::English
+2024-12-30 16:55:53,094 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:53,094 - INFO - Response for user 121: 121::Comedy|Adventure|Drama::Horror|Western::Joe Johnston::USA::English
+2024-12-30 16:55:58,023 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:55:58,024 - INFO - Response for user 122: 122::Drama|Comedy|Action::Horror|Sci-Fi::Gus Van Sant::USA::English
+2024-12-30 16:56:02,000 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:02,000 - INFO - Response for user 123: 123::Drama|Comedy|Action::Thriller|Horror::Joe Johnston::USA::English
+2024-12-30 16:56:05,027 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:05,028 - INFO - Response for user 124: 124::Drama|Comedy|Thriller::Western|Horror::Christopher Hampton::USA::English
+2024-12-30 16:56:09,356 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:09,358 - INFO - Response for user 125: 125::Comedy|Drama|Thriller::Horror|War::Wim Wenders::USA::English
+2024-12-30 16:56:15,674 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:15,674 - INFO - Response for user 126: 126::Drama|Comedy|Action::Children's|Documentary::Alfred Hitchcock::USA::English
+2024-12-30 16:56:19,292 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:19,292 - INFO - Response for user 127: 127::Drama|Comedy|Romance::Horror|Thriller::Howard Deutch::USA::English
+2024-12-30 16:56:22,558 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:22,562 - INFO - Response for user 128: 128::Drama|Comedy|Action::Horror|Thriller::Dominic Sena::USA::English
+2024-12-30 16:56:25,679 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:25,679 - INFO - Response for user 129: 129::Comedy|Drama|Romance::Horror|Sci-Fi::Sydney Pollack::USA::English
+2024-12-30 16:56:29,723 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:29,724 - INFO - Response for user 130: 130::Drama|Comedy|Thriller::Horror|Action::Sydney Pollack::USA::English
+2024-12-30 16:56:39,752 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:39,753 - INFO - Response for user 131: 131::Drama|Comedy|Action::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:56:43,166 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:43,190 - INFO - Response for user 132: 132::Comedy|Drama|Action::Horror|Sci-Fi::Clint Eastwood::USA::English
+2024-12-30 16:56:48,883 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:48,885 - INFO - Response for user 133: 133::Drama|Comedy|Thriller::Adventure|Musical::Richard Donner::USA::English
+2024-12-30 16:56:53,089 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:53,090 - INFO - Response for user 134: 134::Comedy|Drama|Adventure::Horror|Thriller::Martin Scorsese::USA::English
+2024-12-30 16:56:56,259 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:56:56,260 - INFO - Response for user 135: 135::Comedy|Drama|Romance::Horror|Crime::John Madden::USA::English
+2024-12-30 16:57:01,526 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:01,527 - INFO - Response for user 136: 136::Drama|Comedy|Romance::Horror|Thriller::Ang Lee::USA::English
+2024-12-30 16:57:10,631 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:10,632 - INFO - Response for user 137: 137::Drama|Comedy|Adventure::Horror|Mystery::Forest Whitaker::USA::English
+2024-12-30 16:57:14,254 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:14,254 - INFO - Response for user 138: 138::Drama|Comedy|Action::Horror|Thriller::USA::English
+2024-12-30 16:57:14,254 - ERROR - Unexpected format in response for user 138: 138::Drama|Comedy|Action::Horror|Thriller::USA::English
+2024-12-30 16:57:17,956 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:17,961 - INFO - Response for user 139: 139::Drama|Comedy|Action::Thriller|Documentary::Joe Johnston::USA::English
+2024-12-30 16:57:21,179 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:21,180 - INFO - Response for user 140: 140::Drama|Comedy|Romance::Horror|Western::Stanley Kubrick::USA::English
+2024-12-30 16:57:24,737 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:24,738 - INFO - Response for user 141: 141::Drama|Comedy|Thriller::Sci-Fi|War::Allison Anders::USA::English
+2024-12-30 16:57:27,832 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:27,832 - INFO - Response for user 142: 142::Drama|Comedy|Action::Thriller|Crime::Joe Johnston::USA::English
+2024-12-30 16:57:34,362 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:34,363 - INFO - Response for user 143: 143::Comedy|Drama|Action::Horror|Western::Steven Spielberg::USA::English
+2024-12-30 16:57:41,149 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:41,149 - INFO - Response for user 144: 144::Drama|Comedy|Action::Horror|Western::Mike Newell::USA::English
+2024-12-30 16:57:44,309 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:44,310 - INFO - Response for user 145: 145::Comedy|Drama|Action::Horror|Thriller::Jeremy Leven::USA::English
+2024-12-30 16:57:48,490 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:48,497 - INFO - Response for user 146: 146::Drama|Comedy|Adventure::Thriller|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 16:57:52,361 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:53,924 - INFO - Response for user 147: 147::Comedy|Drama|Adventure::Thriller|Horror::Joe Johnston::USA::English
+2024-12-30 16:57:57,412 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:57:57,413 - INFO - Response for user 148: 148::Drama|Comedy|Adventure::Horror|War::Martin Scorsese::USA::English
+2024-12-30 16:58:04,551 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:04,553 - INFO - Response for user 149: 149::Drama|Comedy|Romance::Thriller|Crime::Joe Johnston::USA::English
+2024-12-30 16:58:08,784 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:08,789 - INFO - Response for user 150: 150::Drama|Comedy|Action::Romance|Thriller::Michael Bay::USA::English
+2024-12-30 16:58:12,101 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:12,102 - INFO - Response for user 151: 151::Drama|Comedy|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 16:58:21,209 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:21,211 - INFO - Response for user 152: 152::Comedy|Action|Drama::Horror|Crime::Joe Johnston::USA::English
+2024-12-30 16:58:27,224 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:27,224 - INFO - Response for user 153: 153::Comedy|Drama|Action::Horror|Thriller::Forest Whitaker::USA::English
+2024-12-30 16:58:30,968 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:30,969 - INFO - Response for user 154: 154::Drama|Comedy|Action::Horror|Thriller::David Lean::USA::English
+2024-12-30 16:58:35,191 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:35,192 - INFO - Response for user 155: 155::Comedy|Drama|Action::Horror|Thriller::Ron Howard::USA::English
+2024-12-30 16:58:39,068 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:39,068 - INFO - Response for user 156: 156::Comedy|Drama|Adventure::Horror|Crime::Joe Johnston::USA::English
+2024-12-30 16:58:42,195 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:42,197 - INFO - Response for user 157: 157::Drama|Comedy|Romance::Horror|Western::Michael Bay::USA::English
+2024-12-30 16:58:45,174 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:45,175 - INFO - Response for user 158: 158::Drama|Comedy|Action::Horror|Thriller::Michael Goldenberg::USA::English
+2024-12-30 16:58:49,056 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:49,058 - INFO - Response for user 159: 159::Drama|Comedy|Action::Horror|Thriller::Terry Gilliam::USA::English
+2024-12-30 16:58:53,403 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:53,407 - INFO - Response for user 160: 160::Drama|Comedy|Action::Horror|Thriller::Gillian Armstrong::USA::English
+2024-12-30 16:58:56,884 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:58:56,885 - INFO - Response for user 161: 161::Drama|Comedy|Romance::Thriller|Animation::Sydney Pollack::USA::English
+2024-12-30 16:59:00,723 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:00,724 - INFO - Response for user 162: 162::Drama|Comedy|Adventure::Western|Thriller::Joe Johnston::USA::English
+2024-12-30 16:59:04,515 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:05,885 - INFO - Response for user 163: 163::Comedy|Drama|Adventure::Documentary|Horror::Joe Johnston::USA::English
+2024-12-30 16:59:15,744 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:15,744 - INFO - Response for user 164: 164::Comedy|Drama|Romance::Horror|Adventure::Mike Newell::USA::English
+2024-12-30 16:59:19,062 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:19,063 - INFO - Response for user 165: 165::Drama|Comedy|Action::Horror|War::Richard W. Munchkin::USA::English
+2024-12-30 16:59:24,685 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:24,686 - INFO - Response for user 166: 166::Drama|Comedy|Romance::Action|Thriller::Forest Whitaker::USA::English
+2024-12-30 16:59:29,010 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:29,010 - INFO - Response for user 167: 167::Drama|Comedy|Action::Romance|Crime::Barry Sonnenfeld::USA::English
+2024-12-30 16:59:35,610 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:35,611 - INFO - Response for user 168: 168::Drama|Comedy|Action::Horror|Thriller::Barry Levinson::USA::English
+2024-12-30 16:59:38,930 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:38,931 - INFO - Response for user 169: 169::Drama|Comedy|Action::Horror|Crime::Joe Johnston::USA::English
+2024-12-30 16:59:54,113 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 16:59:54,114 - INFO - Response for user 170: 170::Drama|Comedy|Action::Horror|Film-Noir::Martin Scorsese::USA::English
+2024-12-30 17:00:15,873 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:00:15,874 - INFO - Response for user 171: 171::Drama|Action|Comedy::Thriller|Documentary::Robert Rodriguez::USA::English
+2024-12-30 17:00:27,560 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:00:27,561 - INFO - Response for user 172: 172::Drama|Comedy|Romance::Thriller|Crime::Robert Rodriguez::USA::English
+2024-12-30 17:00:31,255 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:00:31,256 - INFO - Response for user 173: 173::Drama|Comedy|Action::Thriller|Crime::Joe Johnston::USA::English
+2024-12-30 17:00:35,805 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:00:35,806 - INFO - Response for user 174: 174::Drama|Comedy|Action::Horror|Crime::Rob Reiner::USA::English
+2024-12-30 17:00:39,773 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:00:39,774 - INFO - Response for user 175: 175::Drama|Romance|Comedy::Horror|Thriller::Michael Hoffman::USA::English
+2024-12-30 17:00:43,116 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:00:43,117 - INFO - Response for user 176: 176::Comedy|Drama|Action::Horror|Crime::Terry Jones::USA::English
+2024-12-30 17:01:02,589 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:01:02,590 - INFO - Response for user 177: 177::Comedy|Drama|Action::Horror|Thriller::Steven Spielberg::USA::English
+2024-12-30 17:01:08,039 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:01:08,046 - INFO - Response for user 178: 178::Comedy|Drama|Action::Horror|Crime::Steven Spielberg::USA::English
+2024-12-30 17:01:15,242 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:01:15,243 - INFO - Response for user 179: 179::Drama|Comedy|Adventure::Horror|Mystery::Zhang Yimou::USA::English
+2024-12-30 17:01:29,301 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:01:29,301 - INFO - Response for user 180: 180::Drama|Comedy|Adventure::Thriller|Crime::Spike Lee::USA::English
+2024-12-30 17:01:41,044 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:01:41,091 - INFO - Response for user 181: 181::Drama|Comedy|Action::Horror|Crime::Joe Johnston::USA::English
+2024-12-30 17:01:50,949 - INFO - Retrying request to /chat/completions in 0.452874 seconds
+2024-12-30 17:02:03,017 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:02:03,018 - INFO - Response for user 182: 182::Drama|Comedy|Action::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:02:09,252 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:02:09,252 - INFO - Response for user 183: 183::Comedy|Drama|Action::Horror|Romance::Billy Wilder::USA::English
+2024-12-30 17:02:12,602 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:02:12,604 - INFO - Response for user 184: 184::Drama|Comedy|Action::Horror|Romance::Rob Reiner::USA::English
+2024-12-30 17:02:20,882 - INFO - Retrying request to /chat/completions in 0.441479 seconds
+2024-12-30 17:02:29,127 - INFO - Retrying request to /chat/completions in 0.925082 seconds
+2024-12-30 17:02:38,906 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:02:38,908 - INFO - Response for user 185: 185::Drama|Comedy|Action::Thriller|Adventure::Martin Campbell::USA::English
+2024-12-30 17:02:45,250 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:02:45,251 - INFO - Response for user 186: 186::Drama|Comedy|Adventure::Horror|Crime::Joe Johnston::USA::English
+2024-12-30 17:02:48,734 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:02:48,735 - INFO - Response for user 187: 187::Drama|Comedy|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 17:02:52,205 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:02:52,206 - INFO - Response for user 188: 188::Comedy|Drama|Romance::Horror|War::Rob Reiner::USA::English
+2024-12-30 17:02:56,699 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:02:56,699 - INFO - Response for user 189: 189::Comedy|Drama|Thriller::Horror|Western::Christopher Ashley::USA::English
+2024-12-30 17:03:00,251 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:00,251 - INFO - Response for user 190: 190::Drama|Comedy|Adventure::Crime|Thriller::Joe Johnston::USA::English
+2024-12-30 17:03:03,513 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:03,514 - INFO - Response for user 191: 191::Drama|Comedy|Action::Sci-Fi|Thriller::Joseph Ruben::USA::English
+2024-12-30 17:03:06,688 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:06,689 - INFO - Response for user 192: 192::Comedy|Drama|Romance::Action|Thriller::Sydney Pollack::USA::English
+2024-12-30 17:03:10,767 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:10,767 - INFO - Response for user 193: 193::Drama|Comedy|Action::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 17:03:13,988 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:13,989 - INFO - Response for user 194: 194::Drama|Comedy|Action::Western|Documentary::Joe Johnston::USA::English
+2024-12-30 17:03:17,336 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:17,337 - INFO - Response for user 195: 195::Drama|Comedy|Action::Thriller|Documentary::Joe Johnston::USA::English
+2024-12-30 17:03:20,719 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:20,720 - INFO - Response for user 196: 196::Drama|Action|Comedy::Horror|War::Richard W. Munchkin::USA::English
+2024-12-30 17:03:25,346 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:25,347 - INFO - Response for user 197: 197::Drama|Comedy|Action::Thriller|Documentary::Edward Zwick::USA::English
+2024-12-30 17:03:34,816 - INFO - Retrying request to /chat/completions in 0.443595 seconds
+2024-12-30 17:03:39,880 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:39,881 - INFO - Response for user 198: 198::Comedy|Drama|Romance::Horror|Thriller::Ang Lee::USA::English
+2024-12-30 17:03:42,997 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:42,997 - INFO - Response for user 199: 199::Comedy|Drama|Action::Thriller|Crime::Forest Whitaker::USA::English
+2024-12-30 17:03:51,413 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:03:58,062 - INFO - Response for user 200: 200::Comedy|Drama|Action::Horror|Thriller::Peter Hyams::USA::English
+2024-12-30 17:04:07,797 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:08,786 - INFO - Response for user 201: 201::Drama|Action|Comedy::Thriller|Romance::Martin Scorsese::USA::English
+2024-12-30 17:04:15,288 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:15,289 - INFO - Response for user 202: 202::Drama|Comedy|Action::Horror|Crime::Joe Johnston::USA::English
+2024-12-30 17:04:18,690 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:18,691 - INFO - Response for user 203: 203::Comedy|Drama|Thriller::Romance|Sci-Fi::Charles Shyer::USA::English
+2024-12-30 17:04:22,504 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:22,505 - INFO - Response for user 204: 204::Comedy|Drama|Adventure::Horror|War::Joe Johnston::USA::English
+2024-12-30 17:04:26,479 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:26,479 - INFO - Response for user 205: 205::Drama|Comedy|Action::Thriller|Mystery::Richard W. Munchkin::USA::English
+2024-12-30 17:04:33,937 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:33,938 - INFO - Response for user 206: 206::Drama|Comedy|Action::Horror|Thriller::Neil Jordan::USA::English
+2024-12-30 17:04:36,907 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:36,909 - INFO - Response for user 207: 207::Drama|Comedy|Action::Horror|Thriller::USA::English
+2024-12-30 17:04:36,909 - ERROR - Unexpected format in response for user 207: 207::Drama|Comedy|Action::Horror|Thriller::USA::English
+2024-12-30 17:04:40,703 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:40,703 - INFO - Response for user 208: 208::Drama|Comedy|Action::Sci-Fi|Romance::Oliver Parker::USA::English
+2024-12-30 17:04:44,724 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:44,726 - INFO - Response for user 209: 209::Comedy|Drama|Action::Horror|Thriller::Garry Marshall::USA::English
+2024-12-30 17:04:47,836 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:47,837 - INFO - Response for user 210: 210::Comedy|Drama|Romance::Action|Thriller::Rob Reiner::USA::English
+2024-12-30 17:04:51,621 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:51,621 - INFO - Response for user 211: 211::Drama|Comedy|Action::Horror|Thriller::Carlo Carlei::USA::English
+2024-12-30 17:04:55,423 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:55,424 - INFO - Response for user 212: 212::Drama|Comedy|Thriller::Crime|Action::Mel Brooks::USA::English
+2024-12-30 17:04:58,785 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:04:58,786 - INFO - Response for user 213: 213::Drama|Comedy|Action::Horror|Western::Joe Johnston::USA::English
+2024-12-30 17:05:04,807 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:04,808 - INFO - Response for user 214: 214::Comedy|Drama|Action::Thriller|Horror::Joe Johnston::USA::English
+2024-12-30 17:05:08,162 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:08,167 - INFO - Response for user 215: 215::Drama|Comedy|Adventure::Thriller|War::Joe Johnston::USA::English
+2024-12-30 17:05:12,062 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:12,064 - INFO - Response for user 216: 216::Drama|Comedy|Romance::Horror|Thriller::Forest Whitaker::USA::English
+2024-12-30 17:05:15,490 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:15,491 - INFO - Response for user 217: 217::Drama|Comedy|Action::Horror|War::Richard W. Munchkin::USA::English
+2024-12-30 17:05:20,207 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:20,207 - INFO - Response for user 218: 218::Comedy|Drama|Action::War|Horror::Mike Figgis::USA::English
+2024-12-30 17:05:28,176 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:28,176 - INFO - Response for user 219: 219::Comedy|Drama|Thriller::Horror|Crime::Jeremy Leven::USA::English
+2024-12-30 17:05:31,872 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:31,873 - INFO - Response for user 220: 220::Comedy|Drama|Adventure::War|Thriller::Joe Johnston::USA::English
+2024-12-30 17:05:36,233 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:36,234 - INFO - Response for user 221: 221::Drama|Comedy|Action::Crime|Thriller::Stanley Tong::USA::English
+2024-12-30 17:05:39,639 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:39,640 - INFO - Response for user 222: 222::Drama|Comedy|Action::Horror|Thriller::USA::English
+2024-12-30 17:05:39,640 - ERROR - Unexpected format in response for user 222: 222::Drama|Comedy|Action::Horror|Thriller::USA::English
+2024-12-30 17:05:43,547 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:43,548 - INFO - Response for user 223: 223::Drama|Comedy|Romance::Horror|Thriller::Martin Scorsese::USA::English
+2024-12-30 17:05:47,739 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:47,740 - INFO - Response for user 224: 224::Drama|Comedy|Romance::Thriller|Horror::Michael Bay::USA::English
+2024-12-30 17:05:51,327 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:51,328 - INFO - Response for user 225: 225::Drama|Comedy|Action::Thriller|Documentary::Ron Howard::USA::English
+2024-12-30 17:05:54,461 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:54,462 - INFO - Response for user 226: 226::Comedy|Drama|Action::Horror|Sci-Fi::Richard Benjamin::USA::English
+2024-12-30 17:05:57,837 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:05:57,838 - INFO - Response for user 227: 227::Comedy|Drama|Thriller::Horror|Romance::Mike Newell::USA::English
+2024-12-30 17:06:01,169 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:01,170 - INFO - Response for user 228: 228::Drama|Comedy|Thriller::Horror|War::USA::English
+2024-12-30 17:06:01,170 - ERROR - Unexpected format in response for user 228: 228::Drama|Comedy|Thriller::Horror|War::USA::English
+2024-12-30 17:06:04,629 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:04,629 - INFO - Response for user 229: 229::Drama|Comedy|Romance::Horror|Thriller::Howard Deutch::USA::English
+2024-12-30 17:06:08,042 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:08,043 - INFO - Response for user 230: 230::Drama|Comedy|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 17:06:11,463 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:11,464 - INFO - Response for user 231: 231::Drama|Comedy|Adventure::Horror|Thriller::Steven Spielberg::USA::English
+2024-12-30 17:06:15,158 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:15,158 - INFO - Response for user 232: 232::Drama|Comedy|Action::Horror|Romance::Joe Johnston::USA::English
+2024-12-30 17:06:19,121 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:19,122 - INFO - Response for user 233: 233::Drama|Comedy|Animation::Documentary|War::Victor Fleming::USA::English
+2024-12-30 17:06:22,117 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:22,118 - INFO - Response for user 234: 234::Drama|Comedy|Thriller::Sci-Fi|Documentary::James Ivory::USA::English
+2024-12-30 17:06:25,501 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:25,501 - INFO - Response for user 235: 235::Drama|Action|Comedy::Crime|Thriller::Martin Scorsese::USA::English
+2024-12-30 17:06:28,898 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:28,899 - INFO - Response for user 236: 236::Drama|Comedy|Adventure::Horror|Film-Noir::Steven Spielberg::USA::English
+2024-12-30 17:06:32,994 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:32,995 - INFO - Response for user 237: 237::Drama|Comedy|Adventure::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:06:36,065 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:36,066 - INFO - Response for user 238: 238::Drama|Comedy|Romance::Horror|Crime::Ang Lee::USA::English
+2024-12-30 17:06:39,351 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:39,352 - INFO - Response for user 239: 239::Drama|Comedy|Thriller::Sci-Fi|War::Steven Spielberg::USA::English
+2024-12-30 17:06:44,360 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:44,360 - INFO - Response for user 240: 240::Drama|Comedy|Thriller::Action|Sci-Fi::Quentin Tarantino::USA::English
+2024-12-30 17:06:50,933 - INFO - Retrying request to /chat/completions in 0.390550 seconds
+2024-12-30 17:06:54,025 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:54,026 - INFO - Response for user 241: 241::Comedy|Drama|Romance::Horror|Crime::Rob Reiner::USA::English
+2024-12-30 17:06:57,456 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:06:57,456 - INFO - Response for user 242: 242::Drama|Comedy|Action::Horror|Thriller::Jean-Jacques Annaud::USA::English
+2024-12-30 17:07:00,784 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:00,786 - INFO - Response for user 243: 243::Comedy|Drama|Adventure::Horror|Crime::Steven Spielberg::USA::English
+2024-12-30 17:07:05,106 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:05,130 - INFO - Response for user 244: 244::Comedy|Drama|Action::Horror|Thriller::Mel Brooks::USA::English
+2024-12-30 17:07:10,291 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:10,292 - INFO - Response for user 245: 245::Comedy|Drama|Action::Horror|Thriller::Howard Deutch::USA::English
+2024-12-30 17:07:14,466 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:14,467 - INFO - Response for user 246: 246::Comedy|Children's|Drama::Crime|Horror::Joe Johnston::USA::English
+2024-12-30 17:07:17,664 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:17,664 - INFO - Response for user 247: 247::Drama|Comedy|Romance::Horror|Documentary::Ang Lee::USA::English
+2024-12-30 17:07:20,873 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:20,877 - INFO - Response for user 248: 248::Drama|Comedy|Action::Horror|Thriller::Martin Scorsese::USA::English
+2024-12-30 17:07:24,075 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:24,079 - INFO - Response for user 249: 249::Drama|Comedy|Romance::Horror|Action::Rob Reiner::USA::English
+2024-12-30 17:07:27,206 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:27,206 - INFO - Response for user 250: 250::Drama|Comedy|Action::Horror|War::Mike Newell::USA::English
+2024-12-30 17:07:30,861 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:30,861 - INFO - Response for user 251: 251::Drama|Comedy|Thriller::Horror|Western::Sydney Pollack::USA::English
+2024-12-30 17:07:33,955 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:33,955 - INFO - Response for user 252: 252::Drama|Comedy|Action::Horror|Crime::Andrew Sipes::USA::English
+2024-12-30 17:07:40,120 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:40,121 - INFO - Response for user 253: 253::Drama|Comedy|Action::Horror|Thriller::Steven Soderbergh::USA::English
+2024-12-30 17:07:43,633 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:43,633 - INFO - Response for user 254: 254::Comedy|Horror|Drama::Action|Sci-Fi::Sam Raimi::USA::English
+2024-12-30 17:07:46,802 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:46,803 - INFO - Response for user 255: 255::Drama|Comedy|Thriller::Action|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:07:50,362 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:50,362 - INFO - Response for user 256: 256::Drama|Comedy|Action::Horror|Sci-Fi::Steven Spielberg::USA::English
+2024-12-30 17:07:53,652 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:53,652 - INFO - Response for user 257: 257::Drama|Comedy|Romance::Horror|Film-Noir::Mike Figgis::USA::English
+2024-12-30 17:07:57,638 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:07:57,640 - INFO - Response for user 258: 258::Comedy|Drama|Romance::Horror|Thriller::Ang Lee::USA::English
+2024-12-30 17:08:00,819 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:00,820 - INFO - Response for user 259: 259::Drama|Comedy|Action::Thriller|Horror::Oliver Parker::USA::English
+2024-12-30 17:08:04,572 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:04,576 - INFO - Response for user 260: 260::Comedy|Drama|Action::Thriller|Crime::Martin Scorsese::USA::English
+2024-12-30 17:08:08,933 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:08,935 - INFO - Response for user 261: 261::Drama|Comedy|Action::Horror|Sci-Fi::Martin Scorsese::USA::English
+2024-12-30 17:08:16,112 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:16,114 - INFO - Response for user 262: 262::Drama|Comedy|Action::Horror|Thriller::Howard Deutch::USA::English
+2024-12-30 17:08:22,316 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:22,319 - INFO - Response for user 263: 263::Drama|Adventure|Comedy::Horror|Western::Joe Johnston::USA::English
+2024-12-30 17:08:34,743 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:34,743 - INFO - Response for user 264: 264::Comedy|Drama|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 17:08:37,980 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:37,981 - INFO - Response for user 265: 265::Drama|Comedy|Animation::Thriller|Film-Noir::Stanley Donen::USA::English
+2024-12-30 17:08:41,205 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:41,205 - INFO - Response for user 266: 266::Drama|Comedy|Action::Thriller|Sci-Fi::Steven Spielberg::USA::English
+2024-12-30 17:08:47,456 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:47,456 - INFO - Response for user 267: 267::Drama|Comedy|Thriller::Romance|Fantasy::Rob Reiner::USA::English
+2024-12-30 17:08:55,005 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:08:55,005 - INFO - Response for user 268: 268::Drama|Comedy|Adventure::Horror|Thriller::Peter Hewitt::USA::English
+2024-12-30 17:09:02,606 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:02,609 - INFO - Response for user 269: 269::Drama|Comedy|Action::Thriller|Horror::Martin Scorsese::USA::English
+2024-12-30 17:09:06,706 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:06,707 - INFO - Response for user 270: 270::Drama|Comedy|Romance::Horror|Thriller::Howard Deutch::USA::English
+2024-12-30 17:09:10,630 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:10,631 - INFO - Response for user 271: 271::Comedy|Drama|Adventure::Thriller|Horror::Joe Johnston::USA::English
+2024-12-30 17:09:15,038 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:15,039 - INFO - Response for user 272: 272::Drama|Comedy|Romance::Action|Horror::Mike Figgis::USA::English
+2024-12-30 17:09:19,271 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:19,273 - INFO - Response for user 273: 273::Drama|Comedy|Adventure::Horror|Crime::Joe Johnston::USA::English
+2024-12-30 17:09:23,608 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:23,609 - INFO - Response for user 274: 274::Drama|Comedy|Romance::Thriller|Crime::Mike Figgis::USA::English
+2024-12-30 17:09:30,523 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:30,523 - INFO - Response for user 275: 275::Comedy|Drama|Action::Horror|Crime::Michael Bay::USA::English
+2024-12-30 17:09:34,062 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:34,062 - INFO - Response for user 276: 276::Drama|Comedy|War::Thriller|Horror::John Boorman::USA::English
+2024-12-30 17:09:37,534 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:37,535 - INFO - Response for user 277: 277::Drama|Comedy|Thriller::Western|Romance::Quentin Tarantino::USA::English
+2024-12-30 17:09:45,823 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:45,824 - INFO - Response for user 278: 278::Comedy|Action|Drama::Horror|Sci-Fi::Andrew Sipes::USA::English
+2024-12-30 17:09:49,317 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:49,762 - INFO - Response for user 279: 279::Comedy|Drama|Thriller::Horror|Crime::Martin Scorsese::USA::English
+2024-12-30 17:09:53,191 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:53,191 - INFO - Response for user 280: 280::Comedy|Drama|Action::Romance|Mystery::Woody Allen::USA::English
+2024-12-30 17:09:57,532 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:09:57,533 - INFO - Response for user 281: 281::Drama|Action|Comedy::Horror|Thriller::Zhang Yimou::USA::English
+2024-12-30 17:10:00,779 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:00,780 - INFO - Response for user 282: 282::Drama|Comedy|Action::Horror|Thriller::Mike Gabriel::USA::English
+2024-12-30 17:10:03,984 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:03,984 - INFO - Response for user 283: 283::Comedy|Drama|Romance::Horror|Thriller::Gus Van Sant::USA::English
+2024-12-30 17:10:07,510 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:07,510 - INFO - Response for user 284: 284::Drama|Comedy|Action::Thriller|Documentary::Joe Johnston::USA::English
+2024-12-30 17:10:11,677 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:11,677 - INFO - Response for user 285: 285::Drama|Comedy|Action::Horror|Fantasy::Richard Donner::USA::English
+2024-12-30 17:10:15,571 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:15,572 - INFO - Response for user 286: 286::Drama|Comedy|Action::Western|Documentary::Oliver Parker::USA::English
+2024-12-30 17:10:18,886 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:18,886 - INFO - Response for user 287: 287::Drama|Comedy|Action::Horror|Adventure::Quentin Tarantino::USA::English
+2024-12-30 17:10:22,313 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:22,313 - INFO - Response for user 288: 288::Drama|Comedy|Action::Thriller|Horror::Steven Spielberg::USA::English
+2024-12-30 17:10:26,195 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:26,195 - INFO - Response for user 289: 289::Comedy|Drama|Action::Film-Noir|War::Mike Gabriel::USA::English
+2024-12-30 17:10:30,890 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:30,890 - INFO - Response for user 290: 290::Comedy|Drama|Action::Romance|Thriller::Mel Brooks::USA::English
+2024-12-30 17:10:36,020 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:36,022 - INFO - Response for user 291: 291::Comedy|Drama|Romance::Horror|Crime::Forest Whitaker::USA::English
+2024-12-30 17:10:39,420 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:39,421 - INFO - Response for user 292: 292::Drama|Comedy|Adventure::Horror|Sci-Fi::Jean-Jacques Annaud::USA::English
+2024-12-30 17:10:43,056 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:43,057 - INFO - Response for user 293: 293::Drama|Comedy|Romance::Thriller|Horror::Joe Johnston::USA::English
+2024-12-30 17:10:47,554 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:47,556 - INFO - Response for user 294: 294::Drama|Comedy|Action::War|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:10:51,794 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:51,794 - INFO - Response for user 295: 295::Drama|Comedy|Thriller::Crime|Western::Sydney Pollack::USA::English
+2024-12-30 17:10:55,378 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:55,378 - INFO - Response for user 296: 296::Comedy|Action|Drama::Horror|Thriller::Steve Oedekerk::USA::English
+2024-12-30 17:10:59,348 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:10:59,349 - INFO - Response for user 297: 297::Drama|Comedy|Action::Horror|Romance::Steven Spielberg::USA::English
+2024-12-30 17:11:02,904 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:02,904 - INFO - Response for user 298: 298::Drama|Comedy|Thriller::Romance|Western::Nick Castle::USA::English
+2024-12-30 17:11:07,322 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:07,322 - INFO - Response for user 299: 299::Comedy|Drama|Adventure::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 17:11:11,992 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:11,993 - INFO - Response for user 300: 300::Drama|Comedy|Adventure::Thriller|Crime::Joe Johnston::USA::English
+2024-12-30 17:11:16,349 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:16,350 - INFO - Response for user 301: 301::Drama|Comedy|Action::Horror|Mystery::Joe Johnston::USA::English
+2024-12-30 17:11:20,402 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:20,403 - INFO - Response for user 302: 302::Drama|Comedy|Action::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:11:24,102 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:24,103 - INFO - Response for user 303: 303::Drama|Comedy|Action::Horror|Thriller::Sydney Pollack::USA::English
+2024-12-30 17:11:29,147 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:29,148 - INFO - Response for user 304: 304::Drama|Comedy|Romance::Thriller|Horror::John McTiernan::USA::English
+2024-12-30 17:11:34,097 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:34,098 - INFO - Response for user 305: 305::Drama|Comedy|Action::Horror|Crime::Patricia Rozema::USA::English
+2024-12-30 17:11:37,995 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:37,996 - INFO - Response for user 306: 306::Drama|Comedy|Adventure::Thriller|Romance::Joe Johnston::USA::English
+2024-12-30 17:11:45,528 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:45,528 - INFO - Response for user 307: 307::Comedy|Drama|Adventure::Film-Noir|Mystery::Joe Johnston::USA::English
+2024-12-30 17:11:49,681 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:49,681 - INFO - Response for user 308: 308::Comedy|Drama|Romance::Horror|Thriller::Joe Johnston::USA::English
+2024-12-30 17:11:53,508 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:53,509 - INFO - Response for user 309: 309::Drama|Comedy|Romance::Thriller|Documentary::Christopher Hampton::USA::English
+2024-12-30 17:11:57,737 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:11:57,737 - INFO - Response for user 310: 310::Comedy|Drama|Adventure::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:12:07,407 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:07,411 - INFO - Response for user 311: 311::Drama|Comedy|Action::Horror|Thriller::Gillian Armstrong::USA::English
+2024-12-30 17:12:14,211 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:14,211 - INFO - Response for user 312: 312::Drama|Comedy|Thriller::Romance|Documentary::Woody Allen::USA::English
+2024-12-30 17:12:22,033 - INFO - Retrying request to /chat/completions in 0.475544 seconds
+2024-12-30 17:12:27,629 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:27,629 - INFO - Response for user 313: 313::Comedy|Drama|Thriller::Action|Western::Andrew Sipes::USA::English
+2024-12-30 17:12:31,863 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:31,864 - INFO - Response for user 314: 314::Drama|Comedy|Romance::Action|Thriller::Michael Caton-Jones::USA::English
+2024-12-30 17:12:36,512 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:36,513 - INFO - Response for user 315: 315::Comedy|Drama|Adventure::Thriller|Sci-Fi::David Frankel::USA::English
+2024-12-30 17:12:47,314 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:47,568 - INFO - Response for user 316: 316::Drama|Comedy|Action::Horror|Thriller::Sam Raimi::USA::English
+2024-12-30 17:12:51,237 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:51,237 - INFO - Response for user 317: 317::Comedy|Drama|Action::Horror|Thriller::Gillian Armstrong::USA::English
+2024-12-30 17:12:55,420 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:55,420 - INFO - Response for user 318: 318::Comedy|Drama|Action::Thriller|Crime::Luis Llosa::USA::English
+2024-12-30 17:12:59,212 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:12:59,213 - INFO - Response for user 319: 319::Comedy|Drama|Action::Horror|Crime::Forest Whitaker::USA::English
+2024-12-30 17:13:03,060 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:03,060 - INFO - Response for user 320: 320::Drama|Comedy|Adventure::Western|Documentary::Nick Castle::USA::English
+2024-12-30 17:13:07,220 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:07,220 - INFO - Response for user 321: 321::Drama|Comedy|Adventure::Thriller|Horror::Joe Johnston::USA::English
+2024-12-30 17:13:11,013 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:11,017 - INFO - Response for user 322: 322::Drama|Comedy|Action::Horror|Thriller::John Huston::USA::English
+2024-12-30 17:13:15,514 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:15,514 - INFO - Response for user 323: 323::Comedy|Drama|Romance::Action|Thriller::Howard Deutch::USA::English
+2024-12-30 17:13:21,182 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:21,183 - INFO - Response for user 324: 324::Drama|Comedy|Romance::Action|Thriller::Rob Reiner::USA::English
+2024-12-30 17:13:26,287 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:28,435 - INFO - Response for user 325: 325::Drama|Comedy|Adventure::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:13:33,686 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:33,687 - INFO - Response for user 326: 326::Drama|Comedy|Adventure::Horror|Sci-Fi::Steven Spielberg::USA::English
+2024-12-30 17:13:37,684 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:37,685 - INFO - Response for user 327: 327::Drama|Comedy|Thriller::Horror|Crime::Stephen Low::USA::English
+2024-12-30 17:13:43,078 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:43,078 - INFO - Response for user 328: 328::Drama|Comedy|Action::Thriller|Sci-Fi::Martin Scorsese::USA::English
+2024-12-30 17:13:47,592 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:47,594 - INFO - Response for user 329: 329::Comedy|Drama|Adventure::Horror|Crime::Joe Johnston::USA::English
+2024-12-30 17:13:51,302 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:51,304 - INFO - Response for user 330: 330::Comedy|Drama|Romance::Thriller|Western::Gillian Armstrong::USA::English
+2024-12-30 17:13:55,326 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:55,326 - INFO - Response for user 331: 331::Drama|Comedy|Romance::Thriller|Crime::Sydney Pollack::USA::English
+2024-12-30 17:13:59,565 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:13:59,565 - INFO - Response for user 332: 332::Drama|Action|Comedy::Documentary|Romance::John Singleton::USA::English
+2024-12-30 17:14:03,759 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:03,759 - INFO - Response for user 333: 333::Drama|Comedy|Romance::Sci-Fi|Horror::Joe Johnston::USA::English
+2024-12-30 17:14:08,047 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:08,065 - INFO - Response for user 334: 334::Comedy|Drama|Romance::Horror|Thriller::Forest Whitaker::USA::English
+2024-12-30 17:14:15,143 - INFO - Retrying request to /chat/completions in 0.467341 seconds
+2024-12-30 17:14:18,330 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:18,331 - INFO - Response for user 335: 335::Drama|Comedy|Thriller::Action|Western::Martin Scorsese::USA::English
+2024-12-30 17:14:22,496 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:22,497 - INFO - Response for user 336: 336::Drama|Comedy|Adventure::Horror|Mystery::James Foley::USA::English
+2024-12-30 17:14:27,304 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:27,305 - INFO - Response for user 337: 337::Drama|Comedy|Adventure::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:14:30,777 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:30,778 - INFO - Response for user 338: 338::Comedy|Drama|Adventure::Thriller|Romance::Joe Johnston::USA::English
+2024-12-30 17:14:34,561 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:34,562 - INFO - Response for user 339: 339::Drama|Comedy|Thriller::Documentary|Children's::Oliver Parker::USA::English
+2024-12-30 17:14:40,619 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:40,623 - INFO - Response for user 340: 340::Drama|Comedy|Adventure::War|Science Fiction::Victor Fleming::USA::English
+2024-12-30 17:14:45,334 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:45,334 - INFO - Response for user 341: 341::Drama|Comedy|Action::Horror|Mystery::Martin Scorsese::USA::English
+2024-12-30 17:14:51,642 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:51,642 - INFO - Response for user 342: 342::Comedy|Drama|Action::Horror|Thriller::Mel Brooks::USA::English
+2024-12-30 17:14:56,078 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:14:56,082 - INFO - Response for user 343: 343::Comedy|Drama|Action::Crime|Horror::Joe Johnston::USA::English
+2024-12-30 17:15:00,536 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:00,536 - INFO - Response for user 344: 344::Drama|Comedy|Thriller::Horror|Documentary::Martin Scorsese::USA::English
+2024-12-30 17:15:04,289 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:05,214 - INFO - Response for user 345: 345::Drama|Comedy|Action::Thriller|Documentary::Christopher Hampton::USA::English
+2024-12-30 17:15:09,059 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:09,059 - INFO - Response for user 346: 346::Comedy|Drama|Adventure::Thriller|Horror::Joe Johnston::USA::English
+2024-12-30 17:15:13,013 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:13,015 - INFO - Response for user 347: 347::Comedy|Drama|Adventure::Horror|Crime::Forest Whitaker::USA::English
+2024-12-30 17:15:16,641 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:16,642 - INFO - Response for user 348: 348::Drama|Comedy|Action::Horror|Crime::Martin Scorsese::USA::English
+2024-12-30 17:15:20,579 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:20,579 - INFO - Response for user 349: 349::Comedy|Drama|Action::Horror|Documentary::Sydney Pollack::USA::English
+2024-12-30 17:15:23,878 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:23,878 - INFO - Response for user 350: 350::Drama|Comedy|Adventure::Crime|Thriller::Joe Johnston::USA::English
+2024-12-30 17:15:27,228 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:27,286 - INFO - Response for user 351: 351::Drama|Adventure|Comedy::Horror|Film-Noir::Joe Johnston::USA::English
+2024-12-30 17:15:30,575 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:30,575 - INFO - Response for user 352: 352::Drama|Comedy|Adventure::Action|Horror::Joe Johnston::USA::English
+2024-12-30 17:15:33,813 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:33,813 - INFO - Response for user 353: 353::Drama|Action|Comedy::Horror|War::Richard W. Munchkin::USA::English
+2024-12-30 17:15:37,224 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:37,225 - INFO - Response for user 354: 354::Comedy|Drama|Action::Horror|Thriller::Ken Kwapis::USA::English
+2024-12-30 17:15:40,356 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:40,358 - INFO - Response for user 355: 355::Drama|Comedy|Adventure::Horror|Sci-Fi::Joe Johnston::USA::English
+2024-12-30 17:15:46,278 - INFO - Retrying request to /chat/completions in 0.488757 seconds
+2024-12-30 17:15:48,693 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:48,706 - INFO - Response for user 356: 356::Drama|Comedy|Horror::Thriller|Sci-Fi::John Carpenter::USA::English
+2024-12-30 17:15:52,933 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:15:52,934 - INFO - Response for user 357: 357::Drama|Comedy|Action::Thriller|Crime::James Cameron::USA::English
+2024-12-30 17:16:02,922 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:16:04,441 - INFO - Response for user 358: 358::Drama|Comedy|Action::Documentary|Romance::Michael Caton-Jones::USA::English
+2024-12-30 17:16:09,712 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:16:09,712 - INFO - Response for user 359: 359::Comedy|Drama|Adventure::Horror|Sci-Fi::Kevin Costner::USA::English
+2024-12-30 17:16:13,164 - INFO - HTTP Request: POST https://tbb.gpt88.top/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-30 17:16:13,164 - INFO - Response for user 360: 360::Drama|Comedy|Action::Horror|Crime::Steven Spielberg::USA::English
